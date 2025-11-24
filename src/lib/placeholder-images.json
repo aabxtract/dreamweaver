@@ -1,3 +1,52 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "dream-1",
+      "description": "A city floating in a purple nebula.",
+      "imageUrl": "https://images.unsplash.com/photo-1603530304764-1aa295151145?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxuZWJ1bGElMjBjaXR5fGVufDB8fHx8MTc2Mzk4MzkxMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nebula city"
+    },
+    {
+      "id": "dream-2",
+      "description": "Crystalline forest under two moons.",
+      "imageUrl": "https://images.unsplash.com/photo-1728667257097-a0a6a3420ca0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjcnlzdGFsJTIwZm9yZXN0fGVufDB8fHx8MTc2Mzk4MzkxMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "crystal forest"
+    },
+    {
+      "id": "dream-3",
+      "description": "An ocean of liquid stars.",
+      "imageUrl": "https://images.unsplash.com/photo-1724597235523-f15671c3db3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzdGFyJTIwb2NlYW58ZW58MHx8fHwxNzYzOTgzOTA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "star ocean"
+    },
+    {
+      "id": "dream-4",
+      "description": "Whispering statues in a golden desert.",
+      "imageUrl": "https://images.unsplash.com/photo-1757438059139-a10d805ea13e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxnb2xkZW4lMjBkZXNlcnR8ZW58MHx8fHwxNzYzOTgzOTEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "golden desert"
+    },
+    {
+      "id": "dream-5",
+      "description": "A clock melting over a surreal landscape.",
+      "imageUrl": "https://images.unsplash.com/photo-1648453211847-d81535749d8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtZWx0aW5nJTIwY2xvY2t8ZW58MHx8fHwxNzYzOTgzOTEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "melting clock"
+    },
+    {
+      "id": "dream-6",
+      "description": "Stairway to a door in the clouds.",
+      "imageUrl": "https://images.unsplash.com/photo-1716922682590-d19060242ede?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjbG91ZCUyMGRvb3J8ZW58MHx8fHwxNzYzOTgzOTEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cloud door"
+    },
+    {
+      "id": "dream-7",
+      "description": "A library with books that fly.",
+      "imageUrl": "https://images.unsplash.com/photo-1633522647749-8b9d692895ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmbHlpbmclMjBib29rc3xlbnwwfHx8fDE3NjM5ODM5MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "flying books"
+    },
+    {
+      "id": "dream-8",
+      "description": "Portrait made of swirling galaxies.",
+      "imageUrl": "https://images.unsplash.com/photo-1551876369-a4814e1a3ceb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxnYWxheHklMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjM5ODM5MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "galaxy portrait"
+    }
+  ]
 }
