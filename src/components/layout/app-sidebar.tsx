@@ -34,7 +34,7 @@ export default function AppSidebar() {
         <SidebarHeader className="items-center justify-center text-center">
             <Logo className="w-12 h-12 text-primary" />
             <div className="group-data-[collapsible=icon]:hidden">
-              <h2 className="font-headline text-2xl font-bold">Dream Weaver</h2>
+              <h2 className="font-headline text-2xl font-bold text-foreground">Dream Weaver</h2>
             </div>
         </SidebarHeader>
         <SidebarContent>

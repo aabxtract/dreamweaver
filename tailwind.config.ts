@@ -10,8 +10,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        body: ['Alegreya', 'serif'],
-        headline: ['Belleza', 'sans-serif'],
+        body: ['Inter', 'sans-serif'],
+        headline: ['Space Grotesk', 'sans-serif'],
         code: ['monospace'],
       },
       colors: {
@@ -95,11 +95,11 @@ export default {
         'pulse-glow': {
           '0%, 100%': {
             transform: 'scale(1)',
-            boxShadow: '0 0 10px 0px hsl(var(--accent) / 0.7)',
+            boxShadow: '0 0 10px 0px hsl(var(--primary) / 0.7)',
           },
           '50%': {
             transform: 'scale(1.05)',
-            boxShadow: '0 0 25px 10px hsl(var(--accent) / 0.9)',
+            boxShadow: '0 0 25px 10px hsl(var(--primary) / 0.9)',
           },
         },
         breathe: {

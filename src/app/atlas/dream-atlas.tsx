@@ -11,8 +11,8 @@ const emotions: Emotion[] = ['Serenity', 'Joy', 'Mystery', 'Chaos'];
 
 const emotionColors: Record<Emotion, string> = {
   Serenity: 'hsl(var(--primary))',
-  Joy: 'hsl(var(--accent))',
-  Mystery: 'hsl(237 37% 48%)', // same as primary but can be different
+  Joy: 'hsl(var(--chart-2))',
+  Mystery: 'hsl(var(--chart-4))',
   Chaos: 'hsl(var(--destructive))',
 };
 
@@ -75,7 +75,7 @@ export default function DreamAtlas() {
   return (
     <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 h-full">
       <div className="lg:col-span-2">
-        <Card className="h-[500px] lg:h-full w-full relative overflow-hidden bg-background/50">
+        <Card className="h-[500px] lg:h-full w-full relative overflow-hidden bg-background/50 border-0">
           <div className="absolute inset-0">
             {Object.entries(nodes).map(([emotion, emotionNodes]) => (
               <div key={emotion} className={cn(
@@ -119,7 +119,7 @@ export default function DreamAtlas() {
       </div>
 
       <div>
-        <Card className="h-full bg-card/80">
+        <Card className="h-full bg-secondary/30 border-0">
           <CardHeader>
             <CardTitle className="font-headline text-2xl text-primary">Global Trends</CardTitle>
             <CardDescription>A summary of the collective subconscious.</CardDescription>
