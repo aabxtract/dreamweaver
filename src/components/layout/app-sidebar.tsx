@@ -10,7 +10,7 @@ import {
   SidebarTrigger,
   SidebarInset,
 } from '@/components/ui/sidebar';
-import { GalleryHorizontal, Globe, Home, PenSquare } from 'lucide-react';
+import { GalleryHorizontal, Globe, Home, PenSquare, History } from 'lucide-react';
 import { usePathname } from 'next/navigation';
 import Link from 'next/link';
 import Logo from '@/components/logo';
@@ -20,6 +20,7 @@ const navItems = [
   { href: '/dream', label: 'Weave Dream', icon: PenSquare },
   { href: '/gallery', label: 'Dream Gallery', icon: GalleryHorizontal },
   { href: '/atlas', label: 'Dream Atlas', icon: Globe },
+  { href: '/transactions', label: 'Transactions', icon: History },
 ];
 
 export default function AppSidebar() {
